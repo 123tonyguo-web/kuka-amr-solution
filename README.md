@@ -19,7 +19,6 @@
 - 前端：HTML、JavaScript（交互式ROI计算器，方案可视化页面）
 
 ## 🔗 在线演示链接
-> 部署完成后，把下面链接替换成你的Pages地址
 https://123tonyguo-web.github.io/kuka-amr-solution/
 
 ## 🎯 项目背景
